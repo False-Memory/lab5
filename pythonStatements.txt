@@ -1,0 +1,4 @@
+          print("Hello World")       # print statement	 
+   x = x + 1      #Assignment statement	
+  for i in range(1,n):    #for loop with range  	
+         calculateSum(a,b)   #function call
